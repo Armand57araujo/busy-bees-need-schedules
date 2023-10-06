@@ -12,7 +12,7 @@
 ## Description 
 In this project I created a color coded scheduler, that changes colors based on elements being in the past present or future, with the option to store scheduling information in local storage.
 
-[Visit the Deployed Site](https://armand57araujo.github.io/mcquizzy/)
+[Visit the Deployed Site]((https://armand57araujo.github.io/busy-bees-need-schedules/)
 
 ![Scheduler.png](/Scheduler.png)
 
